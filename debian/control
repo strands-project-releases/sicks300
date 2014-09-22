@@ -1,0 +1,12 @@
+Source: ros-hydro-sicks300
+Section: misc
+Priority: extra
+Maintainer: Marc Hanheide <marc@hanheide.net>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-tf
+Homepage: http://www.ros.org/wiki/sicks300/
+Standards-Version: 3.9.2
+
+Package: ros-hydro-sicks300
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-tf
+Description: Driver for the SICK S300 Professional laser scanner. ROS package for reading continuous data output of the SICK S300 Professional laser scanner via RS-422. Note that it supports both the old (v.1.02) and the new (v.1.03) protocol. Please note that this is an extension of the original &quot;fuerte&quot; driver that was developed by the Autonomous Intelligent Systems Department at Bonn University.
