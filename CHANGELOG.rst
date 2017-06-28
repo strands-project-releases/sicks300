@@ -2,6 +2,11 @@
 Changelog for package sicks300
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.6 (2017-06-28)
+------------------
+* removed external maintainer
+* Contributors: Marc Hanheide
+
 1.0.5 (2014-11-05)
 ------------------
 * Merge pull request `#5 <https://github.com/strands-project/sicks300/issues/5>`_ from strands-project/upstream_merge
