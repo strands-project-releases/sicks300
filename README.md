@@ -1,3 +1,26 @@
+## sicks300 (kinetic) - 1.2.1-0
+
+The packages in the `sicks300` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic sicks300` on `Mon, 10 Sep 2018 15:48:42 -0000`
+
+The `sicks300` package was released.
+
+Version of package(s) in repository `sicks300`:
+
+- upstream repository: https://github.com/strands-project/sicks300.git
+- release repository: https://github.com/strands-project-releases/sicks300.git
+- rosdistro version: `1.2.0-0`
+- old version: `1.2.0-0`
+- new version: `1.2.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## sicks300 (kinetic) - 1.2.0-0
 
 The packages in the `sicks300` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic sicks300` on `Wed, 21 Mar 2018 18:38:51 -0000`
