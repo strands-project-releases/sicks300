@@ -1,3 +1,26 @@
+## sicks300 (melodic) - 1.2.1-1
+
+The packages in the `sicks300` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -n -t melodic -r melodic sicks300` on `Sun, 17 Nov 2019 10:47:04 -0000`
+
+The `sicks300` package was released.
+
+Version of package(s) in repository `sicks300`:
+
+- upstream repository: https://github.com/strands-project/sicks300.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## sicks300 (kinetic) - 1.2.1-0
 
 The packages in the `sicks300` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic sicks300` on `Mon, 10 Sep 2018 15:48:42 -0000`
